@@ -1,12 +1,6 @@
 # Hi, I'm Omar Alkilani! 👋
 ## 🚀 About Me
 
-#### Table of Contents
-
-- [About Me](#AboutMe)
-- [Most Used Languages](#indent)
-- [Center](#center)
-- [Color](#color)
 
 I'm a full stack developer...........
 <p>
